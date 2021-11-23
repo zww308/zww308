@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a .NET full stack developer, and I'd like to make some contributions for .net open source projects and share some thoughts on my blog and github.
+😅I'm a developer.😅
 
 Find me
 https://github.com/zww308
 
 Github Stats Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zww308&theme=dark&layout=compact)
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zww308&theme=dark&layout=compact" align='left'/>
 
 github概览数据
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zww308&show_icons=true&theme=dark&count_private=true)
+<img  src="https://github-readme-stats.vercel.app/api?username=zww308&show_icons=true&theme=dark&count_private=true" align='left'/>
