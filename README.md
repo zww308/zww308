@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 😅I'm a developer.😅
+🤔 I’m looking for help with blockchain develop.
 
 Find me
 https://github.com/zww308
 
 Github Stats Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zww308&theme=dark&layout=compact)
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zww308&theme=dark&layout=compact" align='left'/>
 
-github概览数据
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zww308&show_icons=true&theme=dark&count_private=true)
+zww308's Github Stats
 <img  src="https://github-readme-stats.vercel.app/api?username=zww308&show_icons=true&theme=dark&count_private=true" align='left'/>
