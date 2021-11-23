@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a .NET full stack developer, and I'd like to make some contributions for .net open source projects and share some thoughts on my blog and github.
+
+Find me
+https://github.com/WeihanLi
+https://www.cnblogs.com/weihanli
+weihanli@outlook.com
+Github Stats Most Used Languages
